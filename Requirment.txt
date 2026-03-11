@@ -1,0 +1,5 @@
+Python 3.8+
+PyTorch 1.10+
+NumPy
+Matplotlib,
+Scikit-image
