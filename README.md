@@ -43,6 +43,7 @@ The proposed Guided Attention model achieves the best performance:
 Large sample PSNR: 79.49  
 Small sample PSNR: 77.49  
 Outperforms traditional bicubic interpolation (PSNR ~63) and baseline CNNs (PSNR ~65–75).  
+<img width="1748" height="876" alt="QQ20260311-144751" src="https://github.com/user-attachments/assets/a36094bc-98e1-4d27-b611-77c54a9e8464" />
 
 ## Repository Structure
 Main  
@@ -99,6 +100,7 @@ supercam — 目标光谱数据（真实值）
 大样本PSNR：79.49  
 小样本PSNR：77.49  
 性能优于传统的双三次插值（PSNR ~63）和SRCNN（PSNR ~65–75）。  
+<img width="1748" height="876" alt="QQ20260311-144751" src="https://github.com/user-attachments/assets/570b0afb-2d09-4ddd-b70c-518321052b21" />
 
 # 文件结构
 Main  
